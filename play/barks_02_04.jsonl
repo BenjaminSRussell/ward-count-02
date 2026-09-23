@@ -279,3 +279,6 @@
 {"n":279,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south mouth. Bess keeps the plywood for the start. 7 steps, direct on the left lane, open."}
 {"n":280,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south mouth. direct left open. 8 steps. The plywood stays for the start."}
 {"n":281,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Ward gate. Nobody past the south mouth. We start in 2 steps. Direct on the left lane, open."}
+{"n":282,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate south mouth. Matt keeps the hydrant for the start. 3 steps, direct on the left lane, open."}
+{"n":283,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south mouth. direct left open. 4 steps. The hydrant stays for the start."}
+{"n":284,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Ward gate. Nobody past the south mouth. We start in 5 steps. Direct on the left lane, open."}
