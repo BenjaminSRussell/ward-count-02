@@ -1,1 +1,4 @@
 {"n":1,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west dock. direct left open. 6 steps. The rebar stays for the start."}
+{"n":2,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the Lot. Nobody past the west dock. We start in 7 steps. Direct on the left lane, open."}
+{"n":3,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot west dock. Bess keeps the rebar for the start. 8 steps, direct on the left lane, open."}
+{"n":4,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west dock. direct left open. 2 steps. The rebar stays for the start."}
