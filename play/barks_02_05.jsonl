@@ -995,3 +995,6 @@
 {"n":995,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot south mouth. Bess keeps the radio coil for the start. 8 steps, direct on the left lane, open."}
 {"n":996,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south mouth. direct left open. 2 steps. The radio coil stays for the start."}
 {"n":997,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the south mouth. We start in 3 steps. Direct on the left lane, open."}
+{"n":998,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence south mouth. Matt keeps the radio coil for the start. 4 steps, direct on the left lane, open."}
+{"n":999,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south mouth. direct left open. 5 steps. The radio coil stays for the start."}
+{"n":1000,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the south mouth. We start in 6 steps. Direct on the left lane, open."}
