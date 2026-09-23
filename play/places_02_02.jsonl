@@ -150,3 +150,6 @@
 {"n":150,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north mouth. direct left open. 6 steps. The plywood stays for the start."}
 {"n":151,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Mall court. Nobody past the north mouth. We start in 7 steps. Direct on the left lane, open."}
 {"n":152,"kind":"place","name":"Mall court north mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court north mouth. Ivo keeps the plywood for the start. 8 steps, direct on the left lane, open."}
+{"n":153,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north mouth. direct left open. 2 steps. The plywood stays for the start."}
+{"n":154,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Mall court. Nobody past the north mouth. We start in 3 steps. Direct on the left lane, open."}
+{"n":155,"kind":"place","name":"Mall court north mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court north mouth. Bess keeps the plywood for the start. 4 steps, direct on the left lane, open."}
